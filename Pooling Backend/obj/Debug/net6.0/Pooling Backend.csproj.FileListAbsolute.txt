@@ -1,0 +1,30 @@
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.csproj.AssemblyReference.cache
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.AssemblyInfoInputs.cache
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.AssemblyInfo.cs
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.csproj.CoreCompileInputs.cache
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Pooling Backend.exe
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Pooling Backend.deps.json
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Pooling Backend.runtimeconfig.json
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Pooling Backend.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Pooling Backend.pdb
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Dapper.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\scopedcss\bundle\Pooling Backend.styles.css
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.csproj.CopyComplete
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\refint\Pooling Backend.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.pdb
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\Pooling Backend.genruntimeconfig.cache
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\obj\Debug\net6.0\ref\Pooling Backend.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\jayes\Documents\Web\Pooling app\Pooling Backend\bin\Debug\net6.0\BCrypt.Net-Next.dll
