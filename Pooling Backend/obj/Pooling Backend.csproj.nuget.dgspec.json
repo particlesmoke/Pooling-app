@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayes\\Documents\\Web\\Pooling app\\Pooling Backend\\Pooling Backend.csproj": {}
+    "C:\\Users\\shukl\\OneDrive\\Documents\\Repos\\Pooling-app\\Pooling Backend\\Pooling Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayes\\Documents\\Web\\Pooling app\\Pooling Backend\\Pooling Backend.csproj": {
+    "C:\\Users\\shukl\\OneDrive\\Documents\\Repos\\Pooling-app\\Pooling Backend\\Pooling Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayes\\Documents\\Web\\Pooling app\\Pooling Backend\\Pooling Backend.csproj",
+        "projectUniqueName": "C:\\Users\\shukl\\OneDrive\\Documents\\Repos\\Pooling-app\\Pooling Backend\\Pooling Backend.csproj",
         "projectName": "Pooling Backend",
-        "projectPath": "C:\\Users\\jayes\\Documents\\Web\\Pooling app\\Pooling Backend\\Pooling Backend.csproj",
-        "packagesPath": "C:\\Users\\jayes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayes\\Documents\\Web\\Pooling app\\Pooling Backend\\obj\\",
+        "projectPath": "C:\\Users\\shukl\\OneDrive\\Documents\\Repos\\Pooling-app\\Pooling Backend\\Pooling Backend.csproj",
+        "packagesPath": "C:\\Users\\shukl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shukl\\OneDrive\\Documents\\Repos\\Pooling-app\\Pooling Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jayes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shukl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +48,14 @@
               "target": "Package",
               "version": "[2.0.123, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.29.0, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.0-preview.2, )"
@@ -63,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
